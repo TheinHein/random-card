@@ -1,0 +1,25 @@
+{
+  "shuffleCards": {
+    "success": true,
+    "deck_id": "ui05xum0lq2e",
+    "remaining": 52,
+    "shuffled": true
+  },
+  "drawACard": {
+    "success": true,
+    "deck_id": "tga6qmoqoago",
+    "cards": [
+      {
+        "code": "9D",
+        "image": "https://deckofcardsapi.com/static/img/9D.png",
+        "images": {
+          "svg": "https://deckofcardsapi.com/static/img/9D.svg",
+          "png": "https://deckofcardsapi.com/static/img/9D.png"
+        },
+        "value": "9",
+        "suit": "DIAMONDS"
+      }
+    ],
+    "remaining": 49
+  }
+}

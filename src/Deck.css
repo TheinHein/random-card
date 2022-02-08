@@ -1,0 +1,40 @@
+.Deck {
+  height: 100vh;
+}
+.Deck-title {
+  margin: 0;
+  font-size: 3em;
+  letter-spacing: 0.5em;
+}
+.subtitle {
+  font-size: 1.5em;
+}
+.Deck-cardArea {
+  margin: auto;
+  margin-bottom: 12px;
+  background-color: black;
+  width: 80%;
+  height: 400px;
+  padding-top: 80px;
+  border-radius: 20px;
+  border: 5px double crimson;
+}
+
+.getCard-btn {
+  background: none;
+  outline: none;
+  font: inherit;
+  padding: 0.5em 2em;
+  color: crimson;
+  border: 2px solid;
+  transition: 0.25s;
+  border-radius: 5px;
+  background-color: cornsilk;
+  font-size: 1.2em;
+}
+.getCard-btn:hover {
+  border-color: crimson;
+  color: white;
+  box-shadow: inset 0 0 0 2em crimson;
+  padding: 0.45em 1.95em;
+}
